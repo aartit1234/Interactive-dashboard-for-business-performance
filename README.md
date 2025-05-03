@@ -1,7 +1,7 @@
 # Interactive-dashboard-for-business-performance
 
 #Overview
-This project uses a structured dataset to find key business performance insights and gives recommendations to the company.
+- This project uses a structured dataset to find key business performance insights and gives recommendations to the company.
 
 #Key Features
 - Handling missing values
