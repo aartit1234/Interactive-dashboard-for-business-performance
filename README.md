@@ -14,6 +14,7 @@
     + Seasonal purchase patterns
 
 #Tools Used
+- Kaggle
 - Microsoft Excel
 - Microsoft Word
 - Microsoft PowerPoint
