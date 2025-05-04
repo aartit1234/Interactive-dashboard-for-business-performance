@@ -21,7 +21,8 @@
 - Tableau
 
 #Files in use
+- Readme (Overview of the Repository)
 - Fachion_Retail_Sales.xlsx (Raw data)
-- (Tableau-visualizations)
+- Financial dashboard for business analysis.twbx(Tableau-visualizations)
 - (Presentation)
 - (Recommendations)
