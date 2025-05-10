@@ -24,5 +24,6 @@
 - Readme (Overview of the Repository)
 - Fachion_Retail_Sales.xlsx (Raw data)
 - Financial dashboard for business analysis.twbx(Tableau-visualizations)
-- (Presentation)
-- (Recommendations)
+- Presentation_on_fashion_sales.pptx
+- Recommendations for fashion retail sales.docx
+- Insights for fashion retail sales.docx
